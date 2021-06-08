@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    padding-top: 17%;
+}
+
+#hero {
+    background: skyblue;
+    height: 250px; 
+}
